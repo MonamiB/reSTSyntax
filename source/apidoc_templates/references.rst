@@ -1,6 +1,6 @@
-=========
-Resources
-=========
+==========
+References
+==========
 
 * `Creating reST source files <http://rest-sphinx-memo.readthedocs.org/en/latest/ReST.html>`_
 * `Creating/Publishing a documentation project <http://docs.readthedocs.org/en/latest/index.html>`_
